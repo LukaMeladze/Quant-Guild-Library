@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **64.** [Books that Made Me a Quant](https://youtu.be/izuZqWz-Dpg)
-- **63.** [Neural Networks for Quant Finance](https://youtu.be/n5acv8R-lN8)
+- **65.** [Natural Language Processing (NLP) for Quant Trading](https://youtu.be/6llKh4kQBYs)
 
 **Previous:**
+- **64.** [Books that Made Me a Quant](https://youtu.be/izuZqWz-Dpg)
+- **63.** [Neural Networks for Quant Finance](https://youtu.be/n5acv8R-lN8)
 - **62.** [My Life as a Quant](https://youtu.be/n1Z90Iwc_co)
 - **61.** [Central Limit Theorem for Quant Finance](https://youtu.be/q2era-4pnic)
 - **60.** [Is Trading Gambling? Quant Proves It's Not With Math & Logic](https://youtu.be/GvX8Ragl3ZU)
