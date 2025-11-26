@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
+- **68.** [I Ranked the Best College Majors for Becoming a Quant](https://youtu.be/DL_mG-RUFlQ)
 - **67.** [How Physics Accidentally Proved the Black-Scholes Model](https://youtu.be/IIzGqL3ChEs)
 
 **Previous:**
