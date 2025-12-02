@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **68.** [I Ranked the Best College Majors for Becoming a Quant](https://youtu.be/DL_mG-RUFlQ)
-- **67.** [How Physics Accidentally Proved the Black-Scholes Model](https://youtu.be/IIzGqL3ChEs)
+- **69.** [Quant Explains Algorithmic Market-Making](https://youtu.be/aVzFKwyzwM0)
 
 **Previous:**
+- **68.** [I Ranked the Best College Majors for Becoming a Quant](https://youtu.be/DL_mG-RUFlQ)
+- **67.** [How Physics Accidentally Proved the Black-Scholes Model](https://youtu.be/IIzGqL3ChEs)
 - **66.** [How I Cracked the Quant Interview](https://youtu.be/vygK0EXY8ZI)
 - **65.** [Natural Language Processing (NLP) for Quant Trading](https://youtu.be/6llKh4kQBYs)
 - **64.** [Books that Made Me a Quant](https://youtu.be/izuZqWz-Dpg)
