@@ -4,6 +4,8 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 
 [🚀 Master Quantitative Skills with Quant Guild](https://quantguild.com)
 
+[🌀 discourses.io | Where Markets are Discussed](https://discourses.io)
+
 [📅 Meet with me 1:1](https://calendly.com/quantguild-support)
 
 [📈 Interactive Brokers for Algorithmic Trading](https://www.interactivebrokers.com/mkt/?src=quantguildY&url=%2Fen%2Fwhyib%2Foverview.php)
@@ -17,10 +19,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **76.** [I Built the Quant Roadmap](https://youtu.be/kLJEXE5_7rI)
-- **75.** [Quant Explains Backtesting with Poker](https://youtu.be/xJJ1nWj9Rto)
+- **77.** [Profitable vs Tradable: Why Most Strategies Fail Live](https://youtu.be/fzz22JNg9HE)
 
 **Previous:**
+- **76.** [I Built the Quant Roadmap](https://youtu.be/kLJEXE5_7rI)
+- **75.** [Quant Explains Backtesting with Poker](https://youtu.be/xJJ1nWj9Rto)
 - **74.** [How to Build a Markov Chain Regime Switching Bot in Python with Interactive Brokers | Part 2](https://youtu.be/CkXljL6eI5A)
 - **73.** [How to Price Options with Monte Carlo Simulation](https://youtu.be/2-VRYBKfoyE)
 - **72.** [How to Build a Markov Chain Regime Switching Bot in Python with Interactive Brokers | Part 1](https://youtu.be/mais1dsB_1g)
