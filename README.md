@@ -17,7 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **79.** [How to Solve Quant Interview Questions: Optiver Probability Puzzle](https://youtu.be/pyD-zXuP8Qo)
+- **79.** [My Approach to Solving Quant Interview Questions (Optiver Example)](https://youtu.be/pyD-zXuP8Qo)
 
 **Previous:**
 - **78.** [Quant Explains Alpha in 3 Minutes](https://youtu.be/Ivz58kZLD2U)
