@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **80.** [The 5 Papers that Built Modern Quant Finance](https://youtu.be/ZwS1gMGegrM)
-- **79.** [My Approach to Solving Quant Interview Questions (Optiver Example)](https://youtu.be/pyD-zXuP8Qo)
+- **81.** [Ergodicity for Quant Trading](https://youtu.be/I9LFtXPnAKw)
 
 **Previous:**
+- **80.** [The 5 Papers that Built Modern Quant Finance](https://youtu.be/ZwS1gMGegrM)
+- **79.** [My Approach to Solving Quant Interview Questions (Optiver Example)](https://youtu.be/pyD-zXuP8Qo)
 - **78.** [Quant Explains Alpha in 3 Minutes](https://youtu.be/Ivz58kZLD2U)
 
 ### 📅 2025 Video Lectures (Newest First)
