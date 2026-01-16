@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **82.** [Poisson Processes for Quant Finance](https://youtu.be/oug0vzbwISQ)
 - **81.** [Ergodicity for Quant Trading](https://youtu.be/I9LFtXPnAKw)
 
 **Previous:**
