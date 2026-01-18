@@ -18,7 +18,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 
 **Latest:**
 - **82.** [Poisson Processes for Quant Finance](https://youtu.be/oug0vzbwISQ)
-- **81.** [Ergodicity for Quant Trading](https://youtu.be/I9LFtXPnAKw)
+- **81.** [Why Most Traders Lose: Ergodicity for Quant Trading](https://youtu.be/dryV1qJYUw8)
 
 **Previous:**
 - **80.** [The 5 Papers that Built Modern Quant Finance](https://youtu.be/ZwS1gMGegrM)
